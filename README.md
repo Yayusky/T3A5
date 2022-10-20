@@ -29,7 +29,10 @@ nombre del usuario
 pin (en este caso se va a insertar de 4 en 4 ) proceso
 entrada de menu
 salario -seguros -creditos salida :
-+--------------------------------------------------------+
+
+~~~
+
++--------------------------------------------------------+ 
 | -bienvenido a BANANAMEX                                |
 | 1.Consultar saldo                                      |
 | 2.Consultar estado de cuenta                           |
@@ -44,6 +47,7 @@ salario -seguros -creditos salida :
 |                                                        |
 +--------------------------------------------------------+
 
+~~~
 
 ## Etapa 3. Diagrama
 ![](https://github.com/Yayusky/T3A5/blob/b7d07570f51c8c04455d131e1dad9d3eceae65ce/T3A5.png)
