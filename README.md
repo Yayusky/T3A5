@@ -30,18 +30,18 @@ pin (en este caso se va a insertar de 4 en 4 ) proceso
 entrada de menu
 salario -seguros -creditos salida :
 +--------------------------------------------------------+
-| -bienvenido a BANANAMEX   |
+| -bienvenido a BANANAMEX                                |
 | 1.Consultar saldo                                      |
 | 2.Consultar estado de cuenta                           |
 | 3.Retirar efectivo                                     |
 |  4.Otras opciones                                      |
 | - .Seguros                                             |
 | - .Créditos                                            |
-| - 5.Salir   
-
-En caso de elegir 5;                                    
-Graciotaaas
-|
+| - 5.Salir                                              |
+|                                                        |
+| En caso de elegir 5;                                   |
+| Graciotaaas                                            |
+|                                                        |
 +--------------------------------------------------------+
 
 
