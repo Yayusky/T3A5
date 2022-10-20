@@ -8,11 +8,17 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 - El menú principal debe tener las siguientes opciones:
 
 1.Consultar saldo
+
 2.Consultar estado de cuenta
+
 3.Retirar efectivo
+
 4.Otras opciones
+
   1.Seguros
+  
   2.Créditos
+  
 5.Salir
 
 
